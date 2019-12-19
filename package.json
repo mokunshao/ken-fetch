@@ -11,10 +11,12 @@
   ],
   "author": "mokunshao",
   "license": "MIT",
-  "dependencies": {
-    "node-fetch": "^2.6.0"
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.7.3",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mokunshao/ken-fetch.git"
